@@ -164,3 +164,7 @@ Department of Computer Science and Engineering
 * Programiz – Floyd Warshall Algorithm
 
 ---
+
+## License
+
+This project is for educational purposes as part of an academic course requirement.
